@@ -1,6 +1,7 @@
 import { defineAgent } from "eve";
 
+const modelIA = "openai/gpt-6-luna-fast";
+
 export default defineAgent({
-  model: "openai/gpt-6-luna-fast",
-  reasoning: "high",
+  model: modelIA, // Modelo de IA a usar
 });
