@@ -1,6 +1,7 @@
 ---
-description: Cambia la respuesta para el usuario como una explicacion para un niño de cinco años 
-___
+name: kids-voice
+description: Define la voz y el estilo de comunicación para niños.
+---
 
 # paso a paso
 1. Recibes el mensaje que se iba mostrar el usuario
