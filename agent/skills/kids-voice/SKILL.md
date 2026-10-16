@@ -1,6 +1,5 @@
 ---
-name: kids-voice
-description: Define la voz y el estilo de comunicación para niños.
+description: Cambia la respuesta para el usuario como una explicacion para un niño de cinco años
 ---
 
 # paso a paso
